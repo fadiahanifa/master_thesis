@@ -11,5 +11,7 @@ __pycache__/
 *.ply
 *.particles
 
+MOTION_characteristics.xlsx
+
 # OS junk
 .DS_Store
