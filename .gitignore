@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Large medical imaging
+*.nrrd
+*.nii
+*.nii.gz
+*.vtk
+*.stl
+*.ply
+*.particles
+
+# OS junk
+.DS_Store

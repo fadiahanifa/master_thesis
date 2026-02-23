@@ -1,0 +1,841 @@
+{
+    "data": [
+        {
+            "name": "MOTION001_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION001_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION001_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION001_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION002_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION002_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION002_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION002_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION003_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION003_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION003_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION003_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION004_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION004_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION004_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION004_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION005_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION005_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION005_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION005_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION006_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION006_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION006_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION006_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION007_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION007_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION007_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION007_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION008_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION008_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION008_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION008_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION009_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION009_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION009_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION009_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION010_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION010_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION010_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION010_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION011_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION011_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION011_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION011_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION012_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION012_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION012_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION012_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION013_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION013_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION013_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION013_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION014_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION014_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION014_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION014_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION015_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION015_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION015_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION015_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION016_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION016_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION016_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION016_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION017_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION017_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION017_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION017_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION018_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION018_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION018_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION018_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION019_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION019_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION019_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION019_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION020_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION020_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION020_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION020_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION021_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION021_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION021_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION021_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION022_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION022_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION022_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION022_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION023_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION023_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION023_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION023_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION024_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION024_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION024_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION024_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION025_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION025_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION025_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION025_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION026_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION026_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION026_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION026_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION027_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION027_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION027_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION027_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION028_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION028_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION028_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION028_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION029_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION029_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION029_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION029_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION030_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION030_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION030_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION030_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION031_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION031_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION031_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION031_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION032_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION032_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION032_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION032_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION033_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION033_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION033_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION033_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION034_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION034_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION034_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION034_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION035_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION035_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION035_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION035_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION036_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION036_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION036_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION036_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION037_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION037_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION037_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION037_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION038_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION038_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION038_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION038_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION039_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION039_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION039_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION039_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION040_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION040_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION040_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION040_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION041_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION041_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION041_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION041_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION042_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION042_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION042_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION042_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION043_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION043_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION043_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION043_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION044_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION044_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION044_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION044_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION045_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION045_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION045_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION045_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION046_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION046_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION046_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION046_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION047_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION047_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION047_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION047_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION048_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION048_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION048_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION048_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION049_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION049_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION049_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION049_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION050_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION050_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION050_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION050_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION051_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION051_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION051_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION051_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION052_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION052_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION052_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION052_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION053_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION053_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION053_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION053_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION054_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION054_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION054_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION054_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION055_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION055_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION055_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION055_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION056_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION056_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION056_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION056_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION057_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION057_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION057_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION057_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION058_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION058_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION058_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION058_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION059_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION059_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION059_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION059_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION060_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION060_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION060_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION060_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION061_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION061_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION061_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION061_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION062_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION062_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION062_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION062_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION063_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION063_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION063_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION063_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION064_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION064_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION064_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION064_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION065_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION065_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION065_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION065_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION066_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION066_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION066_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION066_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION067_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION067_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION067_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION067_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION068_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION068_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION068_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION068_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION069_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION069_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION069_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION069_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION070_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION070_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION070_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION070_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION071_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION071_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION071_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION071_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION072_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION072_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION072_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION072_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION073_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION073_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION073_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION073_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION074_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION074_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION074_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION074_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION075_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION075_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION075_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION075_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION076_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION076_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION076_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION076_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION077_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION077_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION077_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION077_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION078_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION078_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION078_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION078_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION079_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION079_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION079_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION079_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION080_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION080_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION080_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION080_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION081_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION081_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION081_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION081_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION082_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION082_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION082_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION082_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION083_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION083_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION083_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION083_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION084_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION084_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION084_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION084_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION085_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION085_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION085_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION085_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION086_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION086_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION086_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION086_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION087_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION087_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION087_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION087_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION088_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION088_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION088_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION088_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION089_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION089_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION089_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION089_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION090_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION090_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION090_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION090_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION091_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION091_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION091_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION091_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION092_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION092_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION092_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION092_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION093_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION093_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION093_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION093_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION094_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION094_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION094_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION094_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION095_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION095_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION095_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION095_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION096_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION096_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION096_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION096_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION097_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION097_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION097_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION097_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION098_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION098_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION098_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION098_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION099_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION099_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION099_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION099_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION100_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION100_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION100_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION100_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        },
+        {
+            "name": "MOTION101_left",
+            "notes": "",
+            "groomed_1": "../../data/vastus_intermedius/mesh_rigid/left/MOTION101_left.ply",
+            "local_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION101_left_local.particles",
+            "world_particles_1": "./vastus_intermedius_rigid_left_particles/MOTION101_left_world.particles",
+            "procrustes_1": "1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000"
+        }
+    ],
+    "groom": {
+        "1": {}
+    },
+    "optimize": {
+        "number_of_particles": "256",
+        "use_normals": "1",
+        "normals_strength": "10",
+        "checkpointing_interval": "200",
+        "keep_checkpoints": "0",
+        "iterations_per_split": "1000",
+        "optimization_iterations": "2000",
+        "starting_regularization": "200",
+        "ending_regularization": "1",
+        "initial_relative_weighting": "0.3",
+        "relative_weighting": "1",
+        "procrustes_interval": "0",
+        "procrustes_scaling": "0",
+        "save_init_splits": "1",
+        "verbosity": "0",
+        "multiscale": "1",
+        "multiscale_particles": "32"
+    },
+    "studio": {},
+    "project": {
+        "version": "2"
+    },
+    "analysis": {},
+    "deepssm": {},
+    "landmarks": []
+}
